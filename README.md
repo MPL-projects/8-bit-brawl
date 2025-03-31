@@ -1,6 +1,6 @@
-# POO Game
+# 8-Bit Brawl Game
 
-![The POO Game](game.png)
+![The 8-bit brawl game](game.png)
 
 ## Project authors
 - HAMADY Marie 
@@ -24,7 +24,7 @@
 
 2. Clone the game's Git repository:
     ```sh
-    git clone https://github.com/MPL-projects/POO-game.git
+    git clone https://github.com/MPL-projects/8-bit-brawl.git
     ```
 
 3. Access the project directory:
